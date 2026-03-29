@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Balakrishna
 
-🚀 DevOps & Platform Engineering Enthusiast | AWS | Terraform | Ansible | Docker | Kubernetes | Prometheus | Grafana| Python  
+🚀 DevOps & Platform Engineering Enthusiast | AWS | Terraform | Ansible | Docker | Kubernetes | Prometheus | Grafana | Python  
 
 ---
 
